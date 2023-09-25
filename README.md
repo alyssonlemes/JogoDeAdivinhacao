@@ -1,4 +1,4 @@
-<h1>Projeto de jogo de adivinhação em Java</h1>
+<h2>Projeto de jogo de adivinhação em Java</h2>
 
 >Status do projeto: Concluído;
 
